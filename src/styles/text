@@ -1,0 +1,28 @@
+.section-shopping .section-shopping__content {
+    display: flex;
+    flex-direction: column;
+
+
+
+    
+ .section-shopping__content .section-shopping__button {
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 9999px;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    text-transform: none;
+    padding: 10px;
+    border: 0px;
+    width: 120px;
+    justify-content: center;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.section-shopping__button {
+    margin: 5px 30px 30px 30px;
+}
